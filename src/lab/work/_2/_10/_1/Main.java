@@ -1,4 +1,4 @@
-package lav.work._2._10._1;
+package lab.work._2._10._1;
 
 public class Main {
 
